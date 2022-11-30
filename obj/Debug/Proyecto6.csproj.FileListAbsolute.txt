@@ -1,0 +1,15 @@
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.fmDatos.resources
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.fmEditor.resources
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.fmMargenes.resources
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.fmPresentacion.resources
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.Properties.Resources.resources
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.csproj.GenerateResource.cache
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.pdb
+C:\Users\ruben\Desktop\2K DAM\DESARROLLO DE INTERFACES\Pruebas visual studio\Proyecto6\obj\Debug\Proyecto6.fmAcercaDe.resources
